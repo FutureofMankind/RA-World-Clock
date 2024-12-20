@@ -1,6 +1,8 @@
 Мировые часы
 ===
 
+[![Build status](https://ci.appveyor.com/api/projects/status/nqxpntmmirillkfl/branch/main?svg=true)](https://ci.appveyor.com/project/FutureofMankind/ra-world-clock/branch/main)
+
 Наверняка вы видели в офисах многих компаний установленные часы, показывающие время в разных столицах мира:
 * New York,
 * Moscow,
